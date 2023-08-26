@@ -14,7 +14,7 @@ Os principais objetivos são:
 - Reescrever a I.A. em C++;
 - Desenvolver um tabuleiro interativo para visualizar a situação do tabuleiro(identificação das peças);
 - Desenvolver uma estação de comunicação entre _desktop_ e o sistema embarcado.
-- Implemenetar um braço robótico(objetivo final).
+- Implementar um braço robótico(objetivo final).
 
 ## Membros
 

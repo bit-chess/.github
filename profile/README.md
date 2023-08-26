@@ -18,4 +18,4 @@ Os principais objetivos são:
 
 ## Membros
 
-2020 - atual: [Felipe Santos](https://github.com/SageScroll18144), [Pedro Barros](https://github.com/lightTuring), (Lucas Absalão)[https://github.com/LightAsh04].
+2020 - atual: [Felipe Santos](https://github.com/SageScroll18144), [Pedro Barros](https://github.com/lightTuring), [Lucas Absalão](https://github.com/LightAsh04).

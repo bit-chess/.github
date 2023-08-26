@@ -14,3 +14,8 @@ Os principais objetivos são:
 - Reescrever a I.A. em C++;
 - Desenvolver um tabuleiro interativo para visualizar a situação do tabuleiro(identificação das peças);
 - Desenvolver uma estação de comunicação entre _desktop_ e o sistema embarcado.
+- Implemenetar um braço robótico(objetivo final).
+
+## Membros
+
+2020 - atual: [Felipe Santos](https://github.com/SageScroll18144), [Pedro Barros](https://github.com/lightTuring), (Lucas Absalão)[https://github.com/LightAsh04].

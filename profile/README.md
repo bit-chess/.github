@@ -16,6 +16,11 @@ Os principais objetivos são:
 - Desenvolver uma estação de comunicação entre _desktop_ e o sistema embarcado.
 - Implementar um braço robótico(objetivo final).
 
+## Referências
+
+- Chess Programming Wiki. Página Principal. Disponível em: https://www.chessprogramming.org/Main_Page. Acesso em 2020.
+
 ## Membros
 
-2020 - atual: [Felipe Santos](https://github.com/SageScroll18144), [Pedro Barros](https://github.com/lightTuring), [Lucas Absalão](https://github.com/LightAsh04).
+- 2020 - presente: [Felipe Santos](https://github.com/SageScroll18144), [Pedro Barros](https://github.com/lightTuring), [Lucas Absalão](https://github.com/LightAsh04).
+- 2023 - presente: [Guilherme Lopes](https://github.com/guilp03)

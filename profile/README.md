@@ -23,4 +23,4 @@ Os principais objetivos são:
 ## Membros
 
 - 2020 - presente: [Felipe Santos](https://github.com/SageScroll18144), [Pedro Barros](https://github.com/lightTuring), [Lucas Absalão](https://github.com/LightAsh04).
-- 2023 - presente: [Guilherme Lopes](https://github.com/guilp03)
+- 2023 - presente: [Guilherme Lopes](https://github.com/guilp03), [Victor Mendonça](https://github.com/Mend25/).

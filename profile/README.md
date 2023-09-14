@@ -11,7 +11,7 @@ As nossas primeiras versões são referentes à inteligência artificial e você
 ## Atuais Objetivos
 Os principais objetivos são:
 
-[] Reescrever a I.A. em C++;
+- Reescrever a I.A. em C++;
 - Desenvolver um tabuleiro interativo para visualizar a situação do tabuleiro(identificação das peças);
 - Desenvolver uma estação de comunicação entre _desktop_ e o sistema embarcado.
 - Implementar um braço robótico(objetivo final).

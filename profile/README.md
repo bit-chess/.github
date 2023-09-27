@@ -13,11 +13,13 @@ Os principais objetivos são:
 ## Projetos
 A equipe vivência este projeto desde 2020, tendo uma pausa nos anos 2021 e 2022. Aqui encontra-se listado o histórico das versões dos nossos projetos:
 
-- v1.0: https://github.com/SageScroll18144/Last-chess-ai (I.A. consolidada com representação em matriz de caractere + Antigo sistema robótico)
-- v2.0: https://github.com/lightTuring/chess-ai (I.A. consolidada com representação em Bitboard + Antigo sistema robótico)
-- v1.1: https://github.com/bit-chess/chess-ai-v1 (I.A. consolidada com representação em matriz de caractere + Novo sistema robótico)
-- v2.1: https://github.com/bit-chess/chess-ai-v2/ (I.A. consolidada com representação em Bitboard + Novo sistema robótico)
-- v3.0: Refere-se aos trabalhos encontrados em [A.I](https://github.com/bit-chess/A.I.), [Board](https://github.com/bit-chess/Board) e [GUI_chess](https://github.com/bit-chess/GUI_chess). Versão está em construição, entretanto propõe uma versão mais eficiente do quê as anteriores e mantem a mesma abordagem computacional.
+- (2020 - 2020) v1.0: https://github.com/SageScroll18144/Last-chess-ai (I.A. consolidada com representação em matriz de caractere + Antigo sistema robótico)
+- (2020 - 2020) v2.0: https://github.com/lightTuring/chess-ai (I.A. consolidada com representação em Bitboard + Antigo sistema robótico)
+- (2020 - 2023) v1.1: https://github.com/bit-chess/chess-ai-v1 (I.A. consolidada com representação em matriz de caractere + Novo sistema robótico)
+- (2020 - 2023) v2.1: https://github.com/bit-chess/chess-ai-v2/ (I.A. consolidada com representação em Bitboard + Novo sistema robótico)
+- (2023 - atual) v3.0: Refere-se aos trabalhos encontrados em [A.I](https://github.com/bit-chess/A.I.), [Board](https://github.com/bit-chess/Board) e [GUI_chess](https://github.com/bit-chess/GUI_chess). Versão está em construição, entretanto propõe uma versão mais eficiente do quê as anteriores e mantem a mesma abordagem computacional.
+
+Para entender os trabalhos de 2020 recomendamos ler o nosso TDP, Disponivel em: https://drive.google.com/file/d/1rTdJqFt6BltWr87E1yHgR3u4hoA96uiU/view?usp=sharing.
 
 ## Referências
 

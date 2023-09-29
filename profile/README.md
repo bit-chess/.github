@@ -21,6 +21,32 @@ A equipe vivência este projeto desde 2020, tendo uma pausa nos anos 2021 e 2022
 
 Para entender os trabalhos de 2020 recomendamos ler o nosso TDP, Disponivel em: https://drive.google.com/file/d/1rTdJqFt6BltWr87E1yHgR3u4hoA96uiU/view?usp=sharing.
 
+## Subprojetos
+A equipe desenvolve aplicações voltadas para a produtividade do trabalho e também softwares que compõe mais de um micro projeto.
+
+### App
+Aplicativos desenvolvidos pela equipe!
+
+#### rank-file
+Web site escrito em C que gera Bitboard
+
+-  Link: https://bit-chess.github.io/index.html
+
+### Submodulos
+Os submodulos são scripts que compõe mais de um projeto. São implementandos em repositórios a parte, assim facilitando a coerencia da manutenção de código.
+
+#### C/C++
+Submodulos da terceira versão do projeto
+
+- [analyser_](https://github.com/bit-chess/analyzer_) : FSM de análise da jogada vinda do tabuleiro fisico.
+- [serial](https://github.com/bit-chess/serial): Comunicação serial C-Desktop e Sistema embarcado.
+
+#### Java
+Submodulos para as primeiras versões do projeto
+
+- [Analyser](https://github.com/bit-chess/Analyzer) : FSM de análise da jogada vinda do tabuleiro fisico.
+- [Communication](https://github.com/bit-chess/Communication): Comunicação serial Java-SE e Sistema embarcado.
+
 ## Referências
 
 - Chess Programming Wiki. Página Principal. Disponível em: https://www.chessprogramming.org/Main_Page. Acesso em 2020.

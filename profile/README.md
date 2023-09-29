@@ -30,7 +30,7 @@ Aplicativos desenvolvidos pela equipe!
 #### rank-file
 Web site escrito em C que gera Bitboard
 
--  Link: https://bit-chess.github.io/index.html
+-  Link: https://bit-chess.github.io/rank-file/index.html
 
 ### Submodulos
 Os submodulos são scripts que compõe mais de um projeto. São implementandos em repositórios a parte, assim facilitando a coerencia da manutenção de código.
